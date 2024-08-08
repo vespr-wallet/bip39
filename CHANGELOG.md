@@ -1,15 +1,21 @@
-## 1.0.0
+## 1.1.0
 
-- Initial version, created by anicdh
+- Fixed size bytes causing lower entropy
+- Migrated to dart 3
+- Renamed package to publish
 
-## 1.0.1 & 1.0.2
+## 1.0.6
 
-- Refactor code to use with Flutter
+- Resolved nullsafety code issues
 
 ## 1.0.3
 
 - Remove async function
 
-## 1.0.6
+## 1.0.1 & 1.0.2
 
-- Resolved nullsafety code issues
+- Refactor code to use with Flutter
+
+## 1.0.0
+
+- Initial version, created by anicdh
