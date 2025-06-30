@@ -1,8 +1,20 @@
-# BIP39
+[![pub package](https://img.shields.io/pub/v/bip39_plus.svg)](https://pub.dev/packages/bip39_plus)
+[![license](https://img.shields.io/badge/license-BSD--3--Clause-blue.svg)](LICENSE)
+
+# bip39_plus (Maintained Fork of bip39)
+
+> **Notice:** This package is a maintained fork of the original [bip39 Dart package](https://pub.dev/packages/bip39) ([GitHub](https://github.com/bitcoinjs/bip39)). It provides the same BIP39 functionality with additional maintenance, bugfixes, and support for newer Dart versions. If you are looking for an actively maintained and up-to-date BIP39 implementation for Dart, you are in the right place.
+
+---
 
 Dart implementation of [Bitcoin BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki): Mnemonic code for generating deterministic keys
 
-Convert from [bitcoinjs/bip39](https://github.com/bitcoinjs/bip39)
+Forked from [bitcoinjs/bip39](https://github.com/bitcoinjs/bip39) and the original [bip39 Dart package](https://pub.dev/packages/bip39).
+
+## Why this fork?
+- Ongoing maintenance and support for the latest Dart SDKs
+- Bugfixes and improvements
+- Community contributions welcome
 
 ## Reminder for developers
 

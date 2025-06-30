@@ -1,6 +1,7 @@
 ## 1.1.1
 
 - Updated pointycastle to v4
+- Updated README.md
 
 ## 1.1.0
 
