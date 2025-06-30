@@ -1,3 +1,7 @@
+## 1.1.1
+
+- Updated pointycastle to v4
+
 ## 1.1.0
 
 - Fixed size bytes causing lower entropy
